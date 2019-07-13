@@ -1,4 +1,4 @@
-chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
+
 
 function addElementToBeginningOfArray(array,index){
   newarray = [array(index),...array]
